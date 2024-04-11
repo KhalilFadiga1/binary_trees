@@ -1,10 +1,11 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_unclde - Finds the unlde of node in a
+ * binary_tree_uncle - Finds the unlde of node in a
  * binary tree
  * @node: A pointer to the node to finde the uncle of.
- * Return: NULL if node is NULL or has no unlce or else, pointer to the uncle node.
+ * Return: NULL if node is NULL or has no unlce or else
+ * pointer to the uncle node.
  */
 binary_tree_t *binary_tree_uncle(binary_tree_t *node)
 {
