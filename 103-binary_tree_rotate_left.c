@@ -5,7 +5,7 @@
  * @tree: Ptr to the root node of the tree to rotate.
  * Return: Ptr to the new base node after rotation.
  */
-binary_tree_t *binary_tree_rotate_left(binary_tree_t * tree)
+binary_tree_t *binary_tree_rotate_left(binary_tree_t *tree)
 {
 	binary_tree_t *pivot, *temp;
 
