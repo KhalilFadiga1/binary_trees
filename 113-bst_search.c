@@ -4,7 +4,7 @@
  * bst_search - Searches for a value in a BST
  * @tree: Ptr to the root node of the to search.
  * @value: Value to search for in the BST.
- * Retrun: NUll if the tree is empty or the value is not found or else
+ * Return: NUll if the tree is empty or the value is not found or else
  * return ptr to the node containing the value
  */
 bst_t *bst_search(const bst_t *tree, int value)
