@@ -1,0 +1,4 @@
+O(1)
+O(log n)
+O(n)
+where n is the number of nodes in Binary Heap
